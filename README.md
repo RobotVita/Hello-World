@@ -15,4 +15,13 @@
 <nav>
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a href=https://html-css-js.com/">____</a></li>
+  <li><a href="https://html-css-js.com/">____</a></li>
+
+  <li><a href="https://html-css-js.com/css/code/">____</a></li>
+
+  <li><a href="https://htmlcheatsheet.com/js/">____</a></li>
+
+  </ul>
+  </nav>
+  </header>
+  <section>
