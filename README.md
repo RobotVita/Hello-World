@@ -10,4 +10,9 @@
 <body>
 <header>
   
-  <div id="logo"><img src="/logo.png" alt="">
+  <div id="logo"><img src="/logo.png" alt="">_____</div>
+
+<nav>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href=https://html-css-js.com/">____</a></li>
